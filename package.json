@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "bulma": "^0.9.4",
-    "minireset.css": "^0.0.7",
-    "tinyreset": "^1.0.1"
-  }
-}
