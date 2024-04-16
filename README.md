@@ -17,7 +17,7 @@
  ----------------------------
  
 
- ![site's "face"](https://github.com/TiagoDou/site-portfolio/blob/main/imagens%20site/siteprint2.png?raw=true)
+ ![site's "face"](https://github.com/TiagoDou/site-portfolio/blob/main/imagens%20site/siteprint.png?raw=true)
 
  
  ----------------------------
